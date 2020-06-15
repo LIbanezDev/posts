@@ -1,9 +1,9 @@
 module.exports = {
   title: 'Posts',
   description: 'My project',
-  base:'/posts/',
+  base:'.',
   themeConfig: {
-    logo: '/img/php.png',
+    logo: './img/php.png',
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Repositorio', link: 'https://github.com/Fromiti/posts', target:'_blank'}
