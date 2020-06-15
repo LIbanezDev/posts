@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Posts',
   description: 'My project',
-  base: '/posts/',
+  base:'/posts/',
   themeConfig: {
     logo: '/img/php.png',
     nav: [
